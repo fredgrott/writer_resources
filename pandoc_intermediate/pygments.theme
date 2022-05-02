@@ -1,0 +1,13 @@
+# by default, background is same as normal text
+# change it to a shade of gray to easily distinguish code and text
+"background-color": "#f8f8f8",
+
+# change italic to false, messes up comments with slashes
+# change comment text-color to yet another shade of gray
+"Comment": {
+    "text-color": "#9c9c9c",
+    "background-color": null,
+    "bold": false,
+    "italic": false,
+    "underline": false
+},
