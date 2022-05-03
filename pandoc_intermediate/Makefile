@@ -8,7 +8,7 @@ PROJECT ?= $(shell basename `pwd`)
 # Generate EPUB file
 epub:
 	pandoc -d config.yml \ 
-     --include_in-header chapter_break.tex \
+     --include-in-header chapter_break.tex \
      --highlight-style pygments.theme \
      --include-in-header listings-setup.tex \
 	`find $(SOURCEDIR) -name '*.md' | sort` \
@@ -24,7 +24,7 @@ epub:
 # Generate PDF file
 pdf:
 	pandoc -d config.yml \
-     --include_in-header chapter_break.tex \
+     --include-in-header chapter_break.tex \
      --highlight-style pygments.theme \
      --include-in-header listings-setup.tex \
 	`find $(SOURCEDIR) -name '*.md' | sort` \
