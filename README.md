@@ -6,6 +6,8 @@ Writer resources such as pandoc templates, etc.
 
 ## Artcles
 
+[Tackle Pandoc The Easy Way](https://fredgrott.medium.com/tackle-pandoc-the-easy-way-b92e36d80d5e?sk=fbad0cb1f0a90850c121320fd8be016d)
+
 ## About Fred Grott 
 I use KeyBase for my communications:
 
