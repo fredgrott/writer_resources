@@ -8,6 +8,8 @@ Writer resources such as pandoc templates, etc.
 
 [Tackle Pandoc The Easy Way](https://fredgrott.medium.com/tackle-pandoc-the-easy-way-b92e36d80d5e?sk=fbad0cb1f0a90850c121320fd8be016d)
 
+[Top Mistake Tech Writers Make On Medium](https://fredgrott.medium.com/top-mistake-tech-writers-make-on-medium-c856a7298343?sk=668222a94125bdbabd2040b0c717af33)
+
 ## About Fred Grott 
 I use KeyBase for my communications:
 
